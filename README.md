@@ -10,3 +10,6 @@
 課程內容 | https://gitlab.com/ccc109/wp
 筆記 | [我的筆記](wiki/)
 我的作業 | [我的作業]()
+note |
+week1 |
+week2 |
