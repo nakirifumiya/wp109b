@@ -20,8 +20,12 @@ star(5)
   
 3 4 5 6 7 8
 
+---
+### 檔案 
 
+  hw2.js
 
+```js
 function st(n) {
     for (var i=0; i<n; i++)
     console.log('*')
@@ -32,4 +36,20 @@ for (var i=x; i<=y; i++ )
      console.log(i)
 }
 bt(3,8)
+```
 
+### 執行結果
+```
+PS C:\Users\User\Desktop\NQU@\NQU\VScode jstest\hw> deno run hw2.js
+*
+*
+*
+*
+*
+3
+4
+5
+6
+7
+8
+```
