@@ -23,7 +23,7 @@ star(5)
 ---
 ### 檔案 
 
-  hw2.js
+  [hw2.js](https://github.com/nakirifumiya/wp109b/blob/main/hw/hw2.js)
 
 ```js
 function st(n) {
