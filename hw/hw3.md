@@ -1,6 +1,6 @@
 ## 請寫出一個具有『加、減、內積、負』的向量物件？ (Vector, add, sub, dot, neg)
 
-[hw3.js]()
+[hw3.js](https://github.com/nakirifumiya/wp109b/blob/main/hw/hw3.js)
 
 
 ```js
@@ -56,9 +56,10 @@ console.log('x.neg()=',x.neg())
 ---
 
 ## 執行結果
-
+```
 PS C:\Users\User\Desktop\NQU@\NQU\VScode jstest\Git\wp109b\hw> deno run hw3.js
 x.add(y)= Vector { a: [ 2, 3, 4 ] }
 x.sub(y)= Vector { a: [ 0, 1, 2 ] }
 x.dot(y)= 6
 x.neg()= Vector { a: [ -1, -2, -3 ] }
+```
