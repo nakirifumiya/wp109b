@@ -21,11 +21,11 @@ week4 | [https://github.com/nakirifumiya/wp109b/wiki/week4](https://github.com/n
 week5 | [https://github.com/nakirifumiya/wp109b/wiki/week5](https://github.com/nakirifumiya/wp109b/wiki/week5)
 week8 | [https://github.com/nakirifumiya/wp109b/wiki/week8](https://github.com/nakirifumiya/wp109b/wiki/week8)
 week9 | [https://github.com/nakirifumiya/wp109b/wiki/week9](https://github.com/nakirifumiya/wp109b/wiki/week9)
-week10 |
+week10 | [https://github.com/nakirifumiya/wp109b/wiki/week10](https://github.com/nakirifumiya/wp109b/wiki/week10)
 week11 | [https://github.com/nakirifumiya/wp109b/wiki/week11](https://github.com/nakirifumiya/wp109b/wiki/week11)
 week12 | [https://github.com/nakirifumiya/wp109b/wiki/week12](https://github.com/nakirifumiya/wp109b/wiki/week12)
-week13 |
-week14 | 
+week13 | [https://github.com/nakirifumiya/wp109b/wiki/week13](https://github.com/nakirifumiya/wp109b/wiki/week13)
+week14 | [https://github.com/nakirifumiya/wp109b/wiki/week14](https://github.com/nakirifumiya/wp109b/wiki/week14)
 
 ---
 
