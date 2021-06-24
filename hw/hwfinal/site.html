@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="utf-8"/>
-        <title>留下想說的話</title>
+        <title>DOCHI DOCHI</title>
         <script>
 
             window.onload = function(){
@@ -10,7 +10,8 @@
                 var oMessageBox = document.getElementById("messageBox");
                 var oInput = document.getElementById("myInput");
                 var oPostBtn = document.getElementById("doPost");
-                
+
+                            
                 oPostBtn.onclick = function(){
                     if(oInput.value){
                         
@@ -33,16 +34,43 @@
             }
         
         </script>
-        <style>
-
-        </style>
+        
    
     </head>
+
     <body>
-        <div class="content">
-            <div class="title">你的留言</div>
-            <div class="message_box" id="messageBox"></div>
-            <div><input id="myInput" type="text" placeholder="輸入你的留言"><button id="doPost">提交</button></div>
+        <div class="bg">
+            <img src="DOCHI.jpg">
         </div>
+    </body>
+
+    <style>
+        .bg {
+            position: fixed;
+            top: 0;
+            left: 0;
+            bottom: 0;
+            right: 0;
+            z-index: -999;
+        }
+        .bg img {
+            min-height: 100%;
+            width: 100%;
+        }
+    </style>
+
+    <body>
+        
+        <audio id="myAudio" controls autoplay="true" loop="true" >
+            <source src="DOCCHI DOCCHI.mp3" type="audio/mpeg">
+        </audio>
+        <div class="content">
+            <div style="text-align:center;">
+            <div class="title"><font size="5">Bulletin board</font><br></div>
+            <div><p> </p></div>
+            <div class="message_box" id="messageBox"></div>
+            <div><input id="myInput" type="text" placeholder="Please enter your message   "><button id="doPost">submit</button></div>
+        </div>
+        </div>>
     </body>
 </html>
